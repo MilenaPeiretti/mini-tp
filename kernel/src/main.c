@@ -2,5 +2,6 @@
 
 int main(int argc, char* argv[]) {
     saludar("kernel");
+    int cambio3;
     return 0;
 }
